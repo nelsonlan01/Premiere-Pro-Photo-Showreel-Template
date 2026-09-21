@@ -1,3 +1,20 @@
+—————————————
+<br>
+
+**🕯️ The Final Curtain: Retired & Archived"To all our users: Thank you. Its historical mission is now complete."**
+<br>
+🕊️ Obituary & Remembrance 
+- With profound gratitude, we announce that this repository is now officially deprecated and permanently archived.
+<br>
+💝 Acknowledgments
+- This project could never have come this far without each and every one of you:
+- Thank you to all the users who trusted this project in your production environments.Every single execution, and every click you made, is the greatest proof that this project once lived and burned bright.
+<br>
+--------------------
+
+
+
+
 # Premiere-Pro-Photo-Showreel-Template
 
 The following Premiere Pro Photo Showreel Template Animations are produced or reworked by Nelson LAN,
@@ -73,3 +90,7 @@ It also aims to train multimedia production skills.
   </tr>
 
 </table>
+
+
+
+
